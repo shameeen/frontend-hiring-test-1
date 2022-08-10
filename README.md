@@ -12,7 +12,7 @@ TuringTech is on a mission to revolutionize the business phone industry! This te
 
 The application can be built using any Frontend Framework/Library such as React, Angular, Vue. We do use React on most of our projects, however, Angular and Vue are also used in some of the projects.
 
-For the purpose of this test please use Bootstrap for the base design library. Copy Styling of different components such as buttons, lists, fields and loader from https://vercel.com/design
+For the purpose of this test please use Bootstrap, Material or Ant Design for the base design library. Copy Styling of different components such as buttons, lists, fields and loader from https://vercel.com/design
 
 _NB: You can also build your own components from scratch instead of using bootstrap._
 
