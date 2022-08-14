@@ -68,7 +68,7 @@ type Note {
 }
 ```
 
-### GraphQL API (For REST API detail, scroll down)
+### GraphQL API (For REST API, scroll down)
 
 Base URL: https://frontend-test-api.aircall.io/graphql
 
