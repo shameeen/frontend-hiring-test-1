@@ -12,9 +12,7 @@ TuringTech is on a mission to revolutionize the business phone industry! This te
 
 The application can be built using any Frontend Framework/Library such as React, Angular, Vue. We do use React (especially Next.js) on most of our projects.
 
-For the purpose of this test, you can use Bootstrap, Material or Ant Design for the base design library. Copy Styling of different components such as buttons, lists, fields etc. from the assets in the `design-files` folder.
-
-_NB: You can also build your own components from scratch instead of using bootstrap._
+For the purpose of this test, you can use Bootstrap, Material or Ant Design for the base design library. Copy Styling of different components such as buttons, lists, fields etc. from the assets in the `/design-files` folder.
 
 This application must:
 - Display a paginated list of calls that you’ll retrieve from the API.
@@ -24,17 +22,21 @@ This application must:
 - Handle real-time events (Whenever a call is archived or a note is being added to a call, these changes should be reflected on the UI immediately)
 
 Bonus:
-- Use Typescript
+- Use Typescript and Next.js
 - Provide filtering feature, to filter calls by type (archived, missed …)
-… and many others! Don’t be afraid to use new or unknown libraries, we’d love to learn new things!  
-
+- Use GraphQL to fetch data
+- Deploy your application to Netlify or Heroku
 
 **Important Note**: We want you to build this small app as you'd have done it for your current job. (UI, UX, tests, documentation matters).
 
 
 ## APIs
 
-There are 2 versions of the APIs for this test, so you can choose between a REST API or a GraphQL API. Both expose the same data, so it’s really about which one you prefer.
+There are 2 versions of the APIs for this test, so you can choose between:
+- REST API or 
+- GraphQL API.
+
+Both expose the same data, so it’s really about which one you prefer.
 
 ### Model
 
@@ -66,7 +68,7 @@ type Note {
 }
 ```
 
-### GraphQL API
+### GraphQL API (For REST API detail, scroll down)
 
 Base URL: https://frontend-test-api.aircall.io/graphql
 
@@ -335,12 +337,9 @@ Example
 }
 ```
 
-## Bonus
-
-- Use typescript
-- Deploy your app on Heroku or Netlify
-
 ## Code Submit
-Please organize, design, test and document your code as if it were going into production and send us a pull request. We will review it and get back to you in order to talk about your code! 
+Please organize, design, test and document your code as if it were going into production, create a loom video and send us a [pull request](https://opensource.com/article/19/7/create-pull-request-github). 
+
+We will review it and get back to you in order to talk about your code! 
 
 All the best and happy coding.
