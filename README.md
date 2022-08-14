@@ -14,6 +14,9 @@ The application can be built using any Frontend Framework/Library such as React,
 
 For the purpose of this test, you can use Bootstrap, Material or Ant Design for the base design library. Copy Styling of different components such as buttons, lists, fields etc. from the assets in the `/design-files` folder.
 
+![Calls List](https://user-images.githubusercontent.com/88223175/184556209-23ed6342-5f9b-4b7a-b243-5cde59704d3b.png)
+
+
 This application must:
 - Display a paginated list of calls that you’ll retrieve from the API.
 - Display the call details view if the user clicks on a call. the view should display all the data related to the call itself.
