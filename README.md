@@ -336,7 +336,8 @@ Example
   "error": "Not Found"
 }
 ```
-## Does your UI looks like the image below? If yes then you're doing better than 60% of the applicants.
+## Does your UI looks like the image below?
+### If YES then you're doing better than 60% of the applicants.
 
 ![Calls List](https://user-images.githubusercontent.com/88223175/184556209-23ed6342-5f9b-4b7a-b243-5cde59704d3b.png)
 
