@@ -12,10 +12,7 @@ TuringTech is on a mission to revolutionize the business phone industry! This te
 
 The application can be built using any Frontend Framework/Library such as React, Angular, Vue. We do use React (especially Next.js) on most of our projects.
 
-For the purpose of this test, you can use Bootstrap, Material or Ant Design for the base design library. Copy Styling of different components such as buttons, lists, fields etc. from the assets in the `/design-files` folder.
-
-![Calls List](https://user-images.githubusercontent.com/88223175/184556209-23ed6342-5f9b-4b7a-b243-5cde59704d3b.png)
-
+For the purpose of this test, you can use Bootstrap, Material or Ant Design for the base design library. Copy Styling of different components such as buttons, lists, fields etc. from the assets in the `/design-files` folder. 
 
 This application must:
 - Display a paginated list of calls that you’ll retrieve from the API.
@@ -339,6 +336,9 @@ Example
   "error": "Not Found"
 }
 ```
+## Does your UI looks like the image below? If yes then you're doing better than 60% of the applicants.
+
+![Calls List](https://user-images.githubusercontent.com/88223175/184556209-23ed6342-5f9b-4b7a-b243-5cde59704d3b.png)
 
 ## Code Submit
 Please organize, design, test and document your code as if it were going into production, create a loom video and send us a [pull request](https://opensource.com/article/19/7/create-pull-request-github). 
