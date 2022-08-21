@@ -25,10 +25,9 @@ Bonus:
 - Use Typescript and Next.js
 - Provide filtering feature, to filter calls by type (archived, missed …)
 - Use GraphQL to fetch data
-- Deploy your application to Netlify or Heroku
+- Deploy your application to Netlify, GitHub Pages or Heroku
 
 **Important Note**: We want you to build this small app as you'd have done it for your current job. (UI, UX, tests, documentation matters).
-
 
 ## APIs
 
